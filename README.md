@@ -11,3 +11,8 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+# how to run:
+1. npm i
+2. npx hardhat compile
+3. npx hardhat node
