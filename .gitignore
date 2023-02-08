@@ -40,7 +40,7 @@ typechain-types
 
 # Hardhat files
 cache
-artifacts
+# artifacts
 
 
 node_modules
@@ -52,3 +52,7 @@ typechain-types
 
 .idea
 package-lock.json
+# Hardhat files
+cache
+# artifacts
+
